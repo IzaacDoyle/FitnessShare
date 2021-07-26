@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717783159065",
+    "project_id": "fitnessshare-00001",
+    "storage_bucket": "fitnessshare-00001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717783159065:android:c05adb5468d5f05fb3b588",
+        "android_client_info": {
+          "package_name": "doyle.izaac.fitnessshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717783159065-7ti9husrus9km2pjg8noccge2n106aiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFf8AO_3mdVzaJFNfdTFK2o-57tFrfRyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717783159065-7ti9husrus9km2pjg8noccge2n106aiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
